@@ -1,5 +1,5 @@
 {
-    "name": "sldr/catan",
+    "name": "KeithJFrank/catan",
     "description": "A dice roll tracker and generator for Settlers of Catan.",
     "require": {
         "torophp/torophp": "dev-master",
