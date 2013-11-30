@@ -1,0 +1,26 @@
+{
+  "vars": {},
+  "css": [
+    "type.less",
+    "grid.less",
+    "tables.less",
+    "forms.less",
+    "buttons.less",
+    "glyphicons.less",
+    "input-groups.less",
+    "labels.less",
+    "jumbotron.less",
+    "progress-bars.less",
+    "list-group.less",
+    "panels.less",
+    "wells.less",
+    "close.less",
+    "utilities.less",
+    "responsive-utilities.less",
+    "component-animations.less"
+  ],
+  "js": [
+    "alert.js",
+    "button.js"
+  ]
+}
